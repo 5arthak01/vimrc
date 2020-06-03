@@ -7,6 +7,7 @@ set noexpandtab
 set number              " show line numbers
 set cindent
 set autoindent
+set backspace=indent,eol,start
 filetype indent plugin on
 
 "vim pathogen
