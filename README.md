@@ -1,0 +1,2 @@
+# vimrc
+Customised minimalist vimrc
